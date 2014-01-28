@@ -1,0 +1,6 @@
+<launch>
+    <group ns="object_recognition">
+			<node name="rec_test_node" type="rec_test_node" pkg="object_recognition" respawn="False" output="log" />
+			<!-- Add in upper line to enable debugging: launch-prefix="kdbg" /-->	
+    </group>
+</launch>

@@ -1,0 +1,8 @@
+prefix=/home/paschalidoud/object_ws/src/object_recognition_msg/devel
+
+Name: rec_msg_and_serv
+Description: Description of rec_msg_and_serv
+Version: 0.0.0
+Cflags: -I/home/paschalidoud/object_ws/src/object_recognition_msg/devel/include
+Libs: -L/home/paschalidoud/object_ws/src/object_recognition_msg/devel/lib 
+Requires: 

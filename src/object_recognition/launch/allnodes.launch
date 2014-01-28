@@ -1,0 +1,5 @@
+<launch>
+	<include file="$(find object_recognition)/launch/usbCam.launch" />
+	<include file="$(find object_recognition)/launch/rec.launch" />
+	<include file="$(find object_recognition)/launch/rec_test.launch" />
+</launch>
