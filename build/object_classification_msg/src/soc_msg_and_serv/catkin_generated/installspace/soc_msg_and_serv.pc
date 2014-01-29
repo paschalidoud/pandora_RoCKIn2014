@@ -1,0 +1,8 @@
+prefix=/home/paschalidoud/pandora_RoCKIn2014/install
+
+Name: soc_msg_and_serv
+Description: Description of soc_msg_and_serv
+Version: 0.0.0
+Cflags: -I/home/paschalidoud/pandora_RoCKIn2014/install/include
+Libs: -L/home/paschalidoud/pandora_RoCKIn2014/install/lib 
+Requires: 

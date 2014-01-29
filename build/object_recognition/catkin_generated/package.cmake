@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "object_recognition")
+set(object_recognition_MAINTAINER "aitor <aitor@todo.todo>")
+set(object_recognition_DEPRECATED "")
+set(object_recognition_VERSION "0.0.0")
+set(object_recognition_BUILD_DEPENDS "roscpp" "sensor_msgs" "rec_msg_and_serv")
+set(object_recognition_RUN_DEPENDS "roscpp" "sensor_msgs" "rec_msg_and_serv" "std_msgs")
+set(object_recognition_BUILDTOOL_DEPENDS "catkin")

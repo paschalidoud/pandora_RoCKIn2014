@@ -140,7 +140,7 @@ int main (int argc, char ** argv)
 
   RecNode r;
   //~ std::string path = ros::package::getPath("object_recognition");
-  std::string model_path= "/home/paschalidoud/object_ws/src/object_recognition/models/can2-textured.sift";
+  std::string model_path= "/home/paschalidoud/pandora_RoCKIn2014/src/object_recognition/models";
   //~ path.append(model_path);
   r.initialize (1, model_path);
   r.run();

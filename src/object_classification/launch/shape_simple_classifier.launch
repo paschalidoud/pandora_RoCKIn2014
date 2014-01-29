@@ -1,0 +1,6 @@
+<launch>
+    <group ns="object_classification">
+			<node name="shape_simple_classifier_node" type="shape_simple_classifier_node" pkg="object_classification" respawn="False" output="log" />
+			<!-- Add in upper line to enable debugging: launch-prefix="kdbg" /-->	
+    </group>
+</launch>

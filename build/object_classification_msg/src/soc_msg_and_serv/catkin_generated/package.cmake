@@ -1,0 +1,7 @@
+set(_CATKIN_CURRENT_PACKAGE "soc_msg_and_serv")
+set(soc_msg_and_serv_MAINTAINER "aitor <aitor@todo.todo>")
+set(soc_msg_and_serv_DEPRECATED "")
+set(soc_msg_and_serv_VERSION "0.0.0")
+set(soc_msg_and_serv_BUILD_DEPENDS "sensor_msgs" "message_generation")
+set(soc_msg_and_serv_RUN_DEPENDS "sensor_msgs")
+set(soc_msg_and_serv_BUILDTOOL_DEPENDS "catkin")

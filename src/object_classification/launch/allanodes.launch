@@ -1,0 +1,8 @@
+<launch>
+	<include file="$(find object_classification)/launch/shape_simple_classifier.launch" />
+	<include file="$(find object_classification)/launch/soc_test.launch" />
+<!--
+	<include file="$(find openni_launch)/openni.launch" />
+-->
+</launch>
+
