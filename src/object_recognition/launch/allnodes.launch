@@ -1,7 +1,13 @@
 <launch>
-	<include file="$(find object_recognition)/launch/usbCam.launch" />
+
+<!--
+	<include file="$(find openni2_launch)/launch/openni2.launch" />
+-->
+
 	<include file="$(find object_recognition)/launch/rec.launch" />
 	<include file="$(find object_recognition)/launch/rec_test.launch" />
 	
+<!--
 	<node name="bag" type="record" pkg="rosbag" args="/camera/rgb/image_color /camera/depth/image" /> 
+-->
 </launch>

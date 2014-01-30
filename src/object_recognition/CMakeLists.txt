@@ -4,7 +4,12 @@ project(object_recognition)
 ## Find catkin macros and libraries
 ## if COMPONENTS list like find_package(catkin REQUIRED COMPONENTS xyz)
 ## is used, also find other catkin packages
-find_package(catkin REQUIRED COMPONENTS roscpp sensor_msgs std_msgs cv_bridge rec_msg_and_serv)
+find_package(catkin REQUIRED COMPONENTS roscpp 
+										sensor_msgs 
+										std_msgs 
+										cv_bridge 
+										rec_msg_and_serv
+										tf )
 
 ## System dependencies are found with CMake's conventions
 # find_package(Boost REQUIRED COMPONENTS system)
