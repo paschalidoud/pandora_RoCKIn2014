@@ -1,8 +1,0 @@
-prefix=/home/paschalidoud/pandora_RoCKIn2014/devel
-
-Name: object_classification
-Description: Description of object_classification
-Version: 0.0.0
-Cflags: -I/home/paschalidoud/pandora_RoCKIn2014/src/object_classification/include
-Libs: -L/home/paschalidoud/pandora_RoCKIn2014/devel/lib 
-Requires: 

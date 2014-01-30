@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "rec_msg_and_serv")
-set(rec_msg_and_serv_MAINTAINER "aitor <aitor@todo.todo>")
-set(rec_msg_and_serv_DEPRECATED "")
-set(rec_msg_and_serv_VERSION "0.0.0")
-set(rec_msg_and_serv_BUILD_DEPENDS "sensor_msgs" "message_generation")
-set(rec_msg_and_serv_RUN_DEPENDS "sensor_msgs")
-set(rec_msg_and_serv_BUILDTOOL_DEPENDS "catkin")

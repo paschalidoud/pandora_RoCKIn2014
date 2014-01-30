@@ -1,7 +1,0 @@
-set(_CATKIN_CURRENT_PACKAGE "object_classification")
-set(object_classification_MAINTAINER "aitor <aitor@todo.todo>")
-set(object_classification_DEPRECATED "")
-set(object_classification_VERSION "0.0.0")
-set(object_classification_BUILD_DEPENDS "roscpp" "sensor_msgs" "soc_msg_and_serv")
-set(object_classification_RUN_DEPENDS "roscpp" "sensor_msgs" "std_msgs" "soc_msg_and_serv")
-set(object_classification_BUILDTOOL_DEPENDS "catkin")
